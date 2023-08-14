@@ -1,4 +1,4 @@
-package com.ouyang.demo.websocket;
+package com.ouyang.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
